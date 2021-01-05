@@ -1,3 +1,3 @@
 # hello-world
 Going for Gold
-Very new to this and trying to get a grip
+I am very new to this and trying to get a grip on GitHub
